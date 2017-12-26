@@ -1,0 +1,7 @@
+C:\projects\CSharp\TaskAsync\TaskAsync\bin\Debug\TaskAsync.exe.config
+C:\projects\CSharp\TaskAsync\TaskAsync\bin\Debug\TaskAsync.exe
+C:\projects\CSharp\TaskAsync\TaskAsync\bin\Debug\TaskAsync.pdb
+C:\projects\CSharp\TaskAsync\TaskAsync\obj\Debug\TaskAsync.csprojResolveAssemblyReference.cache
+C:\projects\CSharp\TaskAsync\TaskAsync\obj\Debug\TaskAsync.csproj.CoreCompileInputs.cache
+C:\projects\CSharp\TaskAsync\TaskAsync\obj\Debug\TaskAsync.exe
+C:\projects\CSharp\TaskAsync\TaskAsync\obj\Debug\TaskAsync.pdb

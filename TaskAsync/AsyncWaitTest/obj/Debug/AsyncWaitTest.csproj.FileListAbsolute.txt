@@ -1,0 +1,6 @@
+C:\projects\CSharp\TaskAsync\AsyncWaitTest\bin\Debug\AsyncWaitTest.exe.config
+C:\projects\CSharp\TaskAsync\AsyncWaitTest\bin\Debug\AsyncWaitTest.exe
+C:\projects\CSharp\TaskAsync\AsyncWaitTest\bin\Debug\AsyncWaitTest.pdb
+C:\projects\CSharp\TaskAsync\AsyncWaitTest\obj\Debug\AsyncWaitTest.csproj.CoreCompileInputs.cache
+C:\projects\CSharp\TaskAsync\AsyncWaitTest\obj\Debug\AsyncWaitTest.exe
+C:\projects\CSharp\TaskAsync\AsyncWaitTest\obj\Debug\AsyncWaitTest.pdb
