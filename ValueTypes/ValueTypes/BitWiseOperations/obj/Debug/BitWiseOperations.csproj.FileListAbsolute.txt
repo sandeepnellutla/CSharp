@@ -1,0 +1,6 @@
+C:\projects\CSharp\ValueTypes\ValueTypes\BitWiseOperations\bin\Debug\BitWiseOperations.exe.config
+C:\projects\CSharp\ValueTypes\ValueTypes\BitWiseOperations\bin\Debug\BitWiseOperations.exe
+C:\projects\CSharp\ValueTypes\ValueTypes\BitWiseOperations\bin\Debug\BitWiseOperations.pdb
+C:\projects\CSharp\ValueTypes\ValueTypes\BitWiseOperations\obj\Debug\BitWiseOperations.csproj.CoreCompileInputs.cache
+C:\projects\CSharp\ValueTypes\ValueTypes\BitWiseOperations\obj\Debug\BitWiseOperations.exe
+C:\projects\CSharp\ValueTypes\ValueTypes\BitWiseOperations\obj\Debug\BitWiseOperations.pdb

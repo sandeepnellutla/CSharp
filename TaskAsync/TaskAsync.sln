@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAsync", "TaskAsync\Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncWaitTest", "AsyncWaitTest\AsyncWaitTest.csproj", "{0E0DE9EE-345B-4EBC-9C8F-430CED4B023F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadFirst", "..\Threads\ThreadFirst\ThreadFirst.csproj", "{E90EDC6B-5C6C-413E-AEE0-424744AA6714}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,9 +19,12 @@ Global
 		{54C9434E-635D-4636-AC13-8AD5B7708E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54C9434E-635D-4636-AC13-8AD5B7708E39}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0E0DE9EE-345B-4EBC-9C8F-430CED4B023F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E0DE9EE-345B-4EBC-9C8F-430CED4B023F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E0DE9EE-345B-4EBC-9C8F-430CED4B023F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E0DE9EE-345B-4EBC-9C8F-430CED4B023F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90EDC6B-5C6C-413E-AEE0-424744AA6714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90EDC6B-5C6C-413E-AEE0-424744AA6714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90EDC6B-5C6C-413E-AEE0-424744AA6714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90EDC6B-5C6C-413E-AEE0-424744AA6714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

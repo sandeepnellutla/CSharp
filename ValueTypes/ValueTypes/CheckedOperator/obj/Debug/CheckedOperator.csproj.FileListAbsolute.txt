@@ -1,0 +1,7 @@
+C:\projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\bin\Debug\CheckedOperator.exe.config
+C:\projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\bin\Debug\CheckedOperator.exe
+C:\projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\bin\Debug\CheckedOperator.pdb
+C:\projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\obj\Debug\CheckedOperator.csprojResolveAssemblyReference.cache
+C:\projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\obj\Debug\CheckedOperator.csproj.CoreCompileInputs.cache
+C:\projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\obj\Debug\CheckedOperator.exe
+C:\projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\obj\Debug\CheckedOperator.pdb
