@@ -1,0 +1,6 @@
+C:\projects\CSharp\Threads\ThreadFirst\bin\Debug\ThreadFirst.exe.config
+C:\projects\CSharp\Threads\ThreadFirst\bin\Debug\ThreadFirst.exe
+C:\projects\CSharp\Threads\ThreadFirst\bin\Debug\ThreadFirst.pdb
+C:\projects\CSharp\Threads\ThreadFirst\obj\Debug\ThreadFirst.csproj.CoreCompileInputs.cache
+C:\projects\CSharp\Threads\ThreadFirst\obj\Debug\ThreadFirst.exe
+C:\projects\CSharp\Threads\ThreadFirst\obj\Debug\ThreadFirst.pdb
