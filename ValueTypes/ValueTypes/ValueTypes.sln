@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckedOperator", "CheckedO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitWiseOperations", "BitWiseOperations\BitWiseOperations.csproj", "{5B6B9277-9BC5-4A69-9322-EA080152553F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8And16BitIntegralTypes", "8And16BitIntegralTypes\8And16BitIntegralTypes.csproj", "{086E6B26-6088-4D61-BFBD-4235EDF4C417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatDoubleTypes", "FloatDoubleTypes\FloatDoubleTypes.csproj", "{845B488C-A681-4B47-AD96-EDC14CA9EF93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealNumberTypes", "RealNumberTypes\RealNumberTypes.csproj", "{B0176C1A-7858-4347-A860-10765FACDAEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,9 +28,18 @@ Global
 		{C99A582B-22C1-4631-BFF5-28DA89F30D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C99A582B-22C1-4631-BFF5-28DA89F30D98}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5B6B9277-9BC5-4A69-9322-EA080152553F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B6B9277-9BC5-4A69-9322-EA080152553F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B6B9277-9BC5-4A69-9322-EA080152553F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B6B9277-9BC5-4A69-9322-EA080152553F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{086E6B26-6088-4D61-BFBD-4235EDF4C417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086E6B26-6088-4D61-BFBD-4235EDF4C417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086E6B26-6088-4D61-BFBD-4235EDF4C417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845B488C-A681-4B47-AD96-EDC14CA9EF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845B488C-A681-4B47-AD96-EDC14CA9EF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845B488C-A681-4B47-AD96-EDC14CA9EF93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0176C1A-7858-4347-A860-10765FACDAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0176C1A-7858-4347-A860-10765FACDAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0176C1A-7858-4347-A860-10765FACDAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0176C1A-7858-4347-A860-10765FACDAEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
