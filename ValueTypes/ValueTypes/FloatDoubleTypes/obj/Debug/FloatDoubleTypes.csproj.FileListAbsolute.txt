@@ -1,0 +1,7 @@
+D:\Projects\CSharp\ValueTypes\ValueTypes\FloatDoubleTypes\bin\Debug\FloatDoubleTypes.exe.config
+D:\Projects\CSharp\ValueTypes\ValueTypes\FloatDoubleTypes\bin\Debug\FloatDoubleTypes.exe
+D:\Projects\CSharp\ValueTypes\ValueTypes\FloatDoubleTypes\bin\Debug\FloatDoubleTypes.pdb
+D:\Projects\CSharp\ValueTypes\ValueTypes\FloatDoubleTypes\obj\Debug\FloatDoubleTypes.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\ValueTypes\ValueTypes\FloatDoubleTypes\obj\Debug\FloatDoubleTypes.exe
+D:\Projects\CSharp\ValueTypes\ValueTypes\FloatDoubleTypes\obj\Debug\FloatDoubleTypes.pdb
+D:\Projects\CSharp\ValueTypes\ValueTypes\FloatDoubleTypes\obj\Debug\FloatDoubleTypes.csprojResolveAssemblyReference.cache

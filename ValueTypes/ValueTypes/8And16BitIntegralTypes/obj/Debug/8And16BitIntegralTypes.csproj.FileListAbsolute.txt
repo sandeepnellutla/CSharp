@@ -1,0 +1,7 @@
+D:\Projects\CSharp\ValueTypes\ValueTypes\8And16BitIntegralTypes\bin\Debug\8And16BitIntegralTypes.exe.config
+D:\Projects\CSharp\ValueTypes\ValueTypes\8And16BitIntegralTypes\bin\Debug\8And16BitIntegralTypes.exe
+D:\Projects\CSharp\ValueTypes\ValueTypes\8And16BitIntegralTypes\bin\Debug\8And16BitIntegralTypes.pdb
+D:\Projects\CSharp\ValueTypes\ValueTypes\8And16BitIntegralTypes\obj\Debug\8And16BitIntegralTypes.csprojResolveAssemblyReference.cache
+D:\Projects\CSharp\ValueTypes\ValueTypes\8And16BitIntegralTypes\obj\Debug\8And16BitIntegralTypes.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\ValueTypes\ValueTypes\8And16BitIntegralTypes\obj\Debug\8And16BitIntegralTypes.exe
+D:\Projects\CSharp\ValueTypes\ValueTypes\8And16BitIntegralTypes\obj\Debug\8And16BitIntegralTypes.pdb

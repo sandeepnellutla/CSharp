@@ -1,0 +1,10 @@
+D:\Projects\CSharp\ValueTypes\ValueTypes\RealNumberTypes\bin\Debug\netcoreapp1.1\RealNumberTypes.deps.json
+D:\Projects\CSharp\ValueTypes\ValueTypes\RealNumberTypes\bin\Debug\netcoreapp1.1\RealNumberTypes.runtimeconfig.json
+D:\Projects\CSharp\ValueTypes\ValueTypes\RealNumberTypes\bin\Debug\netcoreapp1.1\RealNumberTypes.runtimeconfig.dev.json
+D:\Projects\CSharp\ValueTypes\ValueTypes\RealNumberTypes\bin\Debug\netcoreapp1.1\RealNumberTypes.dll
+D:\Projects\CSharp\ValueTypes\ValueTypes\RealNumberTypes\bin\Debug\netcoreapp1.1\RealNumberTypes.pdb
+D:\Projects\CSharp\ValueTypes\ValueTypes\RealNumberTypes\obj\Debug\netcoreapp1.1\RealNumberTypes.csprojResolveAssemblyReference.cache
+D:\Projects\CSharp\ValueTypes\ValueTypes\RealNumberTypes\obj\Debug\netcoreapp1.1\RealNumberTypes.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\ValueTypes\ValueTypes\RealNumberTypes\obj\Debug\netcoreapp1.1\RealNumberTypes.AssemblyInfo.cs
+D:\Projects\CSharp\ValueTypes\ValueTypes\RealNumberTypes\obj\Debug\netcoreapp1.1\RealNumberTypes.dll
+D:\Projects\CSharp\ValueTypes\ValueTypes\RealNumberTypes\obj\Debug\netcoreapp1.1\RealNumberTypes.pdb
