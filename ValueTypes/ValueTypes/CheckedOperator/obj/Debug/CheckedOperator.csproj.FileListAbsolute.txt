@@ -5,3 +5,10 @@ C:\projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\obj\Debug\CheckedOperat
 C:\projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\obj\Debug\CheckedOperator.csproj.CoreCompileInputs.cache
 C:\projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\obj\Debug\CheckedOperator.exe
 C:\projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\obj\Debug\CheckedOperator.pdb
+D:\Projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\bin\Debug\CheckedOperator.exe.config
+D:\Projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\bin\Debug\CheckedOperator.exe
+D:\Projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\bin\Debug\CheckedOperator.pdb
+D:\Projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\obj\Debug\CheckedOperator.csprojResolveAssemblyReference.cache
+D:\Projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\obj\Debug\CheckedOperator.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\obj\Debug\CheckedOperator.exe
+D:\Projects\CSharp\ValueTypes\ValueTypes\CheckedOperator\obj\Debug\CheckedOperator.pdb

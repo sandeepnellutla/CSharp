@@ -1,0 +1,10 @@
+D:\Projects\CSharp\Arrays\Arrays\bin\Debug\netcoreapp1.1\Arrays.deps.json
+D:\Projects\CSharp\Arrays\Arrays\bin\Debug\netcoreapp1.1\Arrays.runtimeconfig.json
+D:\Projects\CSharp\Arrays\Arrays\bin\Debug\netcoreapp1.1\Arrays.runtimeconfig.dev.json
+D:\Projects\CSharp\Arrays\Arrays\bin\Debug\netcoreapp1.1\Arrays.dll
+D:\Projects\CSharp\Arrays\Arrays\bin\Debug\netcoreapp1.1\Arrays.pdb
+D:\Projects\CSharp\Arrays\Arrays\obj\Debug\netcoreapp1.1\Arrays.csprojResolveAssemblyReference.cache
+D:\Projects\CSharp\Arrays\Arrays\obj\Debug\netcoreapp1.1\Arrays.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\Arrays\Arrays\obj\Debug\netcoreapp1.1\Arrays.AssemblyInfo.cs
+D:\Projects\CSharp\Arrays\Arrays\obj\Debug\netcoreapp1.1\Arrays.dll
+D:\Projects\CSharp\Arrays\Arrays\obj\Debug\netcoreapp1.1\Arrays.pdb

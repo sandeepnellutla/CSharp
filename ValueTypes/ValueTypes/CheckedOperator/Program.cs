@@ -9,6 +9,9 @@ namespace CheckedOperator
             var value = "";
             int a = int.MinValue;
             int b = int.MaxValue;
+            Console.WriteLine($"Before Checked: a-1: {a - 1}");
+            Console.WriteLine($"Before Checked: b+1: {b + 1}");
+            
 
             try
             {
