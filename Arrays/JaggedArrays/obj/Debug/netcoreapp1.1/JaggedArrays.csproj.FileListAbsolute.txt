@@ -1,0 +1,10 @@
+D:\Projects\CSharp\Arrays\JaggedArrays\bin\Debug\netcoreapp1.1\JaggedArrays.deps.json
+D:\Projects\CSharp\Arrays\JaggedArrays\bin\Debug\netcoreapp1.1\JaggedArrays.runtimeconfig.json
+D:\Projects\CSharp\Arrays\JaggedArrays\bin\Debug\netcoreapp1.1\JaggedArrays.runtimeconfig.dev.json
+D:\Projects\CSharp\Arrays\JaggedArrays\bin\Debug\netcoreapp1.1\JaggedArrays.dll
+D:\Projects\CSharp\Arrays\JaggedArrays\bin\Debug\netcoreapp1.1\JaggedArrays.pdb
+D:\Projects\CSharp\Arrays\JaggedArrays\obj\Debug\netcoreapp1.1\JaggedArrays.csprojResolveAssemblyReference.cache
+D:\Projects\CSharp\Arrays\JaggedArrays\obj\Debug\netcoreapp1.1\JaggedArrays.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\Arrays\JaggedArrays\obj\Debug\netcoreapp1.1\JaggedArrays.AssemblyInfo.cs
+D:\Projects\CSharp\Arrays\JaggedArrays\obj\Debug\netcoreapp1.1\JaggedArrays.dll
+D:\Projects\CSharp\Arrays\JaggedArrays\obj\Debug\netcoreapp1.1\JaggedArrays.pdb

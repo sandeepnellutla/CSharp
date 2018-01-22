@@ -1,4 +1,7 @@
-﻿*************** MULTIDIMENSIONAL ARRAYS - RECTANGLEARRAYS ******************
+﻿/*
+ * EXAMPLES OF MULTIDIMENSIONAL ARRAYS : RECTANGULAR ARRAYS
+ */
+ *************** MULTIDIMENSIONAL ARRAYS - RECTANGLEARRAYS ******************
 
 ------------ Rectangular Arrays Basic Without Initialization--------------
 
