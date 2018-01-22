@@ -52,16 +52,16 @@ namespace JaggedArrays
             Console.WriteLine("------------ Jagged Arrays With Initialization--------------");
 
             Console.WriteLine(@"
-                                int[][] jaggedArraysBasic = new int [3][]
+                                int[][] JaggedArraysInitialized = new int [3][]
                                 {
                                     new int[]{1,2},
                                     new int[]{3,4,5},
                                     new int[]{6,7,8,9,10}
                                 };");
             Console.WriteLine(@"            
-                                for (int i = 0; i < jaggedArraysBasic.Length; i++)
+                                for (int i = 0; i < JaggedArraysInitialized.Length; i++)
                                 {
-                                    for (int j = 0; j < jaggedArraysBasic[i].Length; j++)
+                                    for (int j = 0; j < JaggedArraysInitialized[i].Length; j++)
                                     {
                                         ...... Print Output here...
                                     }
@@ -83,7 +83,7 @@ namespace JaggedArrays
             Console.WriteLine("------------ Jagged Arrays Basic With Shorthand Initialization--------------");
 
             Console.WriteLine(@"
-                                int[][] jaggedArraysBasic = 
+                                int[][] JaggedArraysShortInitialized = 
                                 {
                                     new int[]{11,12},
                                     new int[]{21,22,23},
@@ -91,9 +91,9 @@ namespace JaggedArrays
                                     new int[]{41,42,43,44}
                                 };");
             Console.WriteLine(@"            
-                                for (int i = 0; i < jaggedArraysBasic.Length; i++)
+                                for (int i = 0; i < JaggedArraysShortInitialized.Length; i++)
                                 {
-                                    for (int j = 0; j < jaggedArraysBasic[i].Length; j++)
+                                    for (int j = 0; j < JaggedArraysShortInitialized[i].Length; j++)
                                     {
                                         ...... Print Output here...
                                     }

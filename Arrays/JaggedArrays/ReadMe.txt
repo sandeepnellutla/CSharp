@@ -1,7 +1,8 @@
 ﻿/*
  * EXAMPLES OF MULTIDIMENSIONAL ARRAYS : JAGGED ARRAYS
  */
- ***************MULTIDIMENSIONAL ARRAYS - JAGGED ARRAYS* *****************
+
+***************MULTIDIMENSIONAL ARRAYS - JAGGED ARRAYS* *****************
 
 ------------ Jagged Arrays Basic Without Initialization--------------
 
@@ -25,16 +26,16 @@ Error:Object reference not set to an instance of an object.
 
 ------------ Jagged Arrays With Initialization--------------
 
-                                int[][] jaggedArraysBasic = new int [3][]
+                                int[][] JaggedArraysInitialized = new int [3][]
                                 {
                                     new int[]{1,2},
                                     new int[]{3,4,5},
                                     new int[]{6,7,8,9,10}
                                 };
 
-                                for (int i = 0; i < jaggedArraysBasic.Length; i++)
+                                for (int i = 0; i < JaggedArraysInitialized.Length; i++)
                                 {
-                                    for (int j = 0; j < jaggedArraysBasic[i].Length; j++)
+                                    for (int j = 0; j < JaggedArraysInitialized[i].Length; j++)
                                     {
                                         ...... Print Output here...
                                     }
@@ -48,7 +49,7 @@ OUTPUT:
 
 ------------ Jagged Arrays Basic With Shorthand Initialization--------------
 
-                                int[][] jaggedArraysBasic =
+                                int[][] JaggedArraysShortInitialized =
                                 {
                                     new int[]{11,12},
                                     new int[]{21,22,23},
@@ -56,9 +57,9 @@ OUTPUT:
                                     new int[]{41,42,43,44}
                                 };
 
-                                for (int i = 0; i < jaggedArraysBasic.Length; i++)
+                                for (int i = 0; i < JaggedArraysShortInitialized.Length; i++)
                                 {
-                                    for (int j = 0; j < jaggedArraysBasic[i].Length; j++)
+                                    for (int j = 0; j < JaggedArraysShortInitialized[i].Length; j++)
                                     {
                                         ...... Print Output here...
                                     }
