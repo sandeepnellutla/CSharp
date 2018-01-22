@@ -1,0 +1,9 @@
+D:\Projects\CSharp\Arrays\RectangularArrays\bin\Debug\netcoreapp1.1\RectangularArrays.deps.json
+D:\Projects\CSharp\Arrays\RectangularArrays\bin\Debug\netcoreapp1.1\RectangularArrays.runtimeconfig.json
+D:\Projects\CSharp\Arrays\RectangularArrays\bin\Debug\netcoreapp1.1\RectangularArrays.runtimeconfig.dev.json
+D:\Projects\CSharp\Arrays\RectangularArrays\bin\Debug\netcoreapp1.1\RectangularArrays.dll
+D:\Projects\CSharp\Arrays\RectangularArrays\bin\Debug\netcoreapp1.1\RectangularArrays.pdb
+D:\Projects\CSharp\Arrays\RectangularArrays\obj\Debug\netcoreapp1.1\RectangularArrays.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\Arrays\RectangularArrays\obj\Debug\netcoreapp1.1\RectangularArrays.AssemblyInfo.cs
+D:\Projects\CSharp\Arrays\RectangularArrays\obj\Debug\netcoreapp1.1\RectangularArrays.dll
+D:\Projects\CSharp\Arrays\RectangularArrays\obj\Debug\netcoreapp1.1\RectangularArrays.pdb
