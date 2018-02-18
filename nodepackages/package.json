@@ -1,0 +1,25 @@
+{
+  "name": "nodepackages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack -p",
+    "build:p": "webpack-dev-server -p"
+  },
+  "dependencies": {
+    "clean-webpack-plugin": "^0.1.18",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "html-webpack-plugin": "^2.30.1",
+    "jquery": "^3.3.1",
+    "optimize-css-assets-webpack-plugin": "^3.2.0",
+    "uglifyjs": "^2.4.11",
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.9",
+    "style-loader": "^0.20.2"
+  }
+}
